@@ -26,6 +26,7 @@ This project provides an end-to-end data analysis of Riyadh's inbound tourism me
 ---
 
 ## 📈 Visual Highlights
+![Riyadh Tourism Power BI Dashboard](powerbi_dashboard.png)
 ![Riyadh Tourism Spending Trend](riyadh_tourism_spending_trend.png)
 
 ---
